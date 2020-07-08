@@ -1,5 +1,4 @@
 # Java-SimpleSpringBootCRUD
 
-https://start.spring.io/
-
-<img src="https://ik.imagekit.io/rzv50a740s/SpringInitializr_nGxaEH1MJY.png"></img>
+[Spring Boot Initializr](https://start.spring.io/)
+[MySQL installer](https://dev.mysql.com/downloads/installer/)
